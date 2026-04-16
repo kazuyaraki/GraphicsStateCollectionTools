@@ -1,7 +1,7 @@
 {
 	"name": "com.kazuyaraki.graphicsstatecollection-tools",
 	"displayName":"GraphicsStateCollection Tools",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"unity": "6000.0",
 	"unityRelease": "0f1",
 	"description": "Unity editor tools for analyzing and visualizing Graphics State Collection and Shader.CreateGPUProgram profiling data.",
