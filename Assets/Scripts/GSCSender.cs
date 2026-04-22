@@ -1,5 +1,9 @@
 using UnityEngine;
+#if UNITY_6000_5_OR_NEWER
+using UnityEngine.Rendering;
+#else
 using UnityEngine.Experimental.Rendering;
+#endif
 
 public sealed class GSCSender : MonoBehaviour
 {
